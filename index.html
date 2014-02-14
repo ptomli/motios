@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<div id="home">
+	<h1>motios</h1>
+	<ul class="posts">
+	{% for post in site.posts %}
+		<li><span class="date">{{ post.date | date: '%Y-%m-%d' }}</span> &#x27be; <a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
+	{% endfor %}
+	</ul>
+</div>

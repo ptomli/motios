@@ -1,0 +1,8 @@
+name: motios
+markdown: redcarpet
+pygments: false
+future: true
+permalink: /:year/:month/:day/:title.html
+timezone: Africa/Johannesburg
+
+baseurl: /motios
