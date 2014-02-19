@@ -100,6 +100,7 @@ a bit shorter than the others I have, potentially assisting with the issue above
 ### Next?
 
 Next I need to get more of the design down on virtual paper. There are a few issues I've found with the existing model, and a few ideas
-that have occurred to me recently. I'll use the Github ticketing system to track these issues, pretty straightforward and accessible.
+that have occurred to me recently. I'll use the [Github ticketing system](https://github.com/ptomli/motios/issues) to track these issues,
+pretty straightforward and accessible.
 
 Obviously it would be nice to put up some images of the design, maybe some comparisons with others I've found online. Yeah, that'd be nice...
